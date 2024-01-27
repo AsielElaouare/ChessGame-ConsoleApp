@@ -7,7 +7,6 @@
 
 # Chess Game in C# Console App
 
-Overview
 This is a simple console-based Chess game written in C# in my free time for fun. It provides a basic implementation of the classic game, allowing two players to make moves on the console. The game follows standard chess rules and includes features such as checking for checkmate, stalemate, and en passant.
 
 Features
